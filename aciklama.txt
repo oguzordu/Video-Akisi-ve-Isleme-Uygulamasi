@@ -1,0 +1,5 @@
+Bu proje, Azure Video Indexer ve MongoDB Atlas kullanan bir video akışı ve işleme uygulamasıdır.
+Backend: Python (Flask) + Azure Video Indexer API
+Frontend: HTML/CSS/JS (WebRTC ile canlı kamera önizlemesi)
+Veritabanı: MongoDB Atlas
+Kullanıcılar video yükleyip analiz ettirebilir, analiz sonuçları ve meta veriler MongoDB'de saklanır.
